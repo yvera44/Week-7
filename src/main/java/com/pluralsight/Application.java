@@ -30,7 +30,7 @@ public class Application {
 
           movies.stream()
                   .filter((movie) -> movie.getRating() >= 8)
-                  .forEach(movie-> System.out.println(movie));
+                  .forEach(movie -> System.out.println(movie));
 
             //filtering with streams
         }
