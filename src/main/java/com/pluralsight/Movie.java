@@ -2,6 +2,7 @@ package com.pluralsight;
 
 public class Movie {
 
+
     private String title;
     private String genre;
     private int releaseYear;
